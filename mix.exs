@@ -64,7 +64,7 @@ defmodule Logflare.Mixfile do
       {:plug, "~> 1.8"},
       {:plug_cowboy, "~> 2.0"},
       {:phoenix_live_view, "~> 0.15.3", override: true},
-      {:phoenix_live_dashboard, "~> 0.3.0"},
+      {:phoenix_live_dashboard, "~> 0.4.0"},
       {:cors_plug, "~> 2.0"},
 
       # Oauth
